@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChessObliOppg2", "SimpleChessObliOppg2\SimpleChessObliOppg2.csproj", "{473FDB31-BCFC-4A02-A3F9-D490C9E80A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473FDB31-BCFC-4A02-A3F9-D490C9E80A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473FDB31-BCFC-4A02-A3F9-D490C9E80A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473FDB31-BCFC-4A02-A3F9-D490C9E80A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473FDB31-BCFC-4A02-A3F9-D490C9E80A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F34290D-8F64-46A1-8A90-ED36614726FC}
+	EndGlobalSection
+EndGlobal
